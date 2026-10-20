@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projecte2627\\projecte 26-27\\Projecte1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\DAO\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOUsuari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IDAO\\IDAOUsuari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOParada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IDAO\\IDAOParada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOMitjaTransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IDAO\\IDAOMitjaTransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOEstacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IDAO\\IDAOEstacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOCiutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IDAO\\IDAOCiutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Usuari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Usuari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Trajecte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Trajecte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Ciutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Ciutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\MitjaTransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\MitjaTransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Estacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Estacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\DAO\\DAO.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\DAO.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOTrajecte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IDAO\\IDAOTrajecte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\projecte2627\\projecte 26-27\\Projecte1\\Aplicacio\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacio\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\DAO\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAO\\UnitOfWork.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\DAO\\UnitOfWork.cs",
+              "RelativeToolTip": "DAO\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:29:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDAOUsuari.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOUsuari.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOUsuari.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOUsuari.cs",
+              "RelativeToolTip": "IDAO\\IDAOUsuari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T18:06:56.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDAOParada.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOParada.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOParada.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOParada.cs",
+              "RelativeToolTip": "IDAO\\IDAOParada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T18:06:30.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDAOMitjaTransport.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOMitjaTransport.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOMitjaTransport.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOMitjaTransport.cs",
+              "RelativeToolTip": "IDAO\\IDAOMitjaTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T18:06:12.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDAOEstacio.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOEstacio.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOEstacio.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOEstacio.cs",
+              "RelativeToolTip": "IDAO\\IDAOEstacio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T18:03:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDAOCiutat.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOCiutat.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOCiutat.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOCiutat.cs",
+              "RelativeToolTip": "IDAO\\IDAOCiutat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T18:03:26.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuari.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Usuari.cs",
+              "RelativeDocumentMoniker": "Model\\Usuari.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Usuari.cs",
+              "RelativeToolTip": "Model\\Usuari.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCMAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T17:57:34.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trajecte.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Trajecte.cs",
+              "RelativeDocumentMoniker": "Model\\Trajecte.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Trajecte.cs",
+              "RelativeToolTip": "Model\\Trajecte.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T17:53:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ciutat.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Ciutat.cs",
+              "RelativeDocumentMoniker": "Model\\Ciutat.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Ciutat.cs",
+              "RelativeToolTip": "Model\\Ciutat.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T17:48:47.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MitjaTransport.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\MitjaTransport.cs",
+              "RelativeDocumentMoniker": "Model\\MitjaTransport.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\MitjaTransport.cs",
+              "RelativeToolTip": "Model\\MitjaTransport.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T17:41:50.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estacio.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Estacio.cs",
+              "RelativeDocumentMoniker": "Model\\Estacio.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Estacio.cs",
+              "RelativeToolTip": "Model\\Estacio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T17:34:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAO.csproj",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\DAO\\DAO.csproj",
+              "RelativeDocumentMoniker": "DAO\\DAO.csproj",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\DAO\\DAO.csproj",
+              "RelativeToolTip": "DAO\\DAO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T17:34:11.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDAOTrajecte.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOTrajecte.cs",
+              "RelativeDocumentMoniker": "IDAO\\IDAOTrajecte.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\IDAO\\IDAOTrajecte.cs",
+              "RelativeToolTip": "IDAO\\IDAOTrajecte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T18:06:45.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Parada.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Parada.cs",
+              "RelativeDocumentMoniker": "Model\\Parada.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Parada.cs",
+              "RelativeToolTip": "Model\\Parada.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T17:52:08.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T17:34:14.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Aplicacio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aplicacio\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\projecte2627\\projecte 26-27\\Projecte1\\Aplicacio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aplicacio\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:26:49.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
