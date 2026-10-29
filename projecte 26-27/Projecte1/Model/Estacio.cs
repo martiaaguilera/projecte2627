@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 
 namespace Model
 {
-    public class Estacio
+    public class Estacio : INotifyPropertyChanged
     {
         private int id;
         private string nom;
@@ -27,6 +28,7 @@ namespace Model
         public decimal Longitud { get => longitud; set => longitud = value; }
         public int IdCiutat { get => idCiutat; set => idCiutat = value; }
 
+        public event PropertyChangedEventHandler? PropertyChanged;
 
         public override string ToString()
         {

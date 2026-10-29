@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace Model
 {
-    public class Usuari
+    public class Usuari : INotifyPropertyChanged
     {
         private int id;
         private string email;
@@ -30,6 +31,8 @@ namespace Model
         public string Password { get => password; set => password = value; }
         public char Tipus { get => tipus; set => tipus = value; }
         public DateTime DataRegistre { get => dataRegistre; set => dataRegistre = value; }
+
+        public event PropertyChangedEventHandler? PropertyChanged;
 
         public override string ToString()
         {

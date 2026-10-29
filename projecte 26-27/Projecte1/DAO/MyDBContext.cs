@@ -1,6 +1,14 @@
-﻿namespace DAO
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace DAO
 {
-    internal class MyDBContext
+    public class MyDBContext : DbContext
     {
+        public static string ConnectionString = "";
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder)
+        {
+            optionBuilder.UseOracle(ConnectionString);
+        }
     }
 }

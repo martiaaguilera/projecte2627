@@ -35,6 +35,7 @@ namespace DAO
 
         public void Dispose()
         {
+            _context.Dispose();
         }
     }
 }

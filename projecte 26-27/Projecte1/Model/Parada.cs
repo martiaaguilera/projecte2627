@@ -1,35 +1,38 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 
 namespace Model
 {
-    public class Parada
+    public class Parada : INotifyPropertyChanged
     {
-        private int idTraj;
+        private int idTrajecte;
         private int ordre;
         private string nom;
         private string horaPas;
         private int idEstacio;
 
-        public Parada(int idTraj, int ordre, string nom, string horaPas, int idEstacio)
+        public Parada(int idTrajecte, int ordre, string nom, string horaPas, int idEstacio)
         {
-            IdTraj = idTraj;
+            IdTrajecte = idTrajecte;
             Ordre = ordre;
             Nom = nom;
             HoraPas = horaPas;
             IdEstacio = idEstacio;
         }
 
-        public int IdTraj { get => idTraj; set => idTraj = value; }
+        public int IdTrajecte { get => idTrajecte; set => idTrajecte = value; }
         public int Ordre { get => ordre; set => ordre = value; }
         public string Nom { get => nom; set => nom = value; }
         public string HoraPas { get => horaPas; set => horaPas = value; }
         public int IdEstacio { get => idEstacio; set => idEstacio = value; }
 
+        public event PropertyChangedEventHandler? PropertyChanged;
+
         public override string ToString()
         {
-            return "Id Trajecte: " + IdTraj + " | Ordre: " + Ordre + " | Nom: " + Nom + " | Hora pas: " + HoraPas;
+            return "Id Trajecte: " + IdTrajecte + " | Ordre: " + Ordre + " | Nom: " + Nom + " | Hora pas: " + HoraPas;
         }
     }
 }
